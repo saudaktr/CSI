@@ -1,0 +1,1044 @@
+Uri: http://school.wpshow.me/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/favicon.ico
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\favicon.ico
+Content Type: text/plain
+
+Uri: http://school.wpshow.me/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/comments/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\comments\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/bootstrap/css/bootstrap.min.css
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/font-awesome/css/font-awesome.min.css
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/dropdown-menu/dropdown-menu.css
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\dropdown-menu\dropdown-menu.css
+Content Type: text/css
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/swipebox/css/swipebox.min.css
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\swipebox\css\swipebox.min.css
+Content Type: text/css
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/audioplayer/audioplayer.css
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\audioplayer\audioplayer.css
+Content Type: text/css
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/style.css
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\style.css
+Content Type: text/css
+
+Uri: http://school.wpshow.me/?dynamic_css=css
+File Name: C:\My Web Sites\saudf\school.wpshow.me\index-1.htm
+Content Type: text/css
+
+Uri: http://school.wpshow.me/xmlrpc.php?rsd
+File Name: C:\My Web Sites\saudf\school.wpshow.me\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/wp-includes/wlwmanifest.xml
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/home/home-test/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\home\home-test\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/about-us/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\about-us\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/team-members/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\team-members\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/contact-us/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\contact-us\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/home/home-page-02/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\home\home-page-02\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/home/home-page-03/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\home\home-page-03\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/home/home-page-04/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\home\home-page-04\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/home/home-page-05/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\home\home-page-05\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/posts-page/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\posts-page\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/full-width-page/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\full-width-page\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/text-formatting/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\text-formatting\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/components/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\components\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/category/news/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\category\news\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/events/events/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\events\events\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/courses/courses/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\courses\courses\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/galleries/galleries/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\galleries\galleries\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/great-post-with-image-gallery-inserted/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\great-post-with-image-gallery-inserted\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/hard-work-is-what-brings-great-results-here/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\hard-work-is-what-brings-great-results-here\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/knowledge-exchange-student-meetings-and-games/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\knowledge-exchange-student-meetings-and-games\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/event/newcomers-welcome-party/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\event\newcomers-welcome-party\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/event/brian-mcmeltingberg-anniversary/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\event\brian-mcmeltingberg-anniversary\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/event/campus-open-doors/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\event\campus-open-doors\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/feed/atom/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\feed\atom\index.htm
+Content Type: application/atom+xml
+
+Uri: http://school.wpshow.me/wp-includes/js/jquery/jquery.js?ver=1.11.2
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-includes\js\jquery\jquery.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/site-logo.png
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\site-logo.png
+Content Type: image/png
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8724862214_8e0a683196_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8724862214_8e0a683196_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8425536360_8d60723f65_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8425536360_8d60723f65_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/11980066934_0df2439628_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\11980066934_0df2439628_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9513729802_7e2f089b80_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9513729802_7e2f089b80_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8748862640_01cd0eb9b8_b-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8748862640_01cd0eb9b8_b-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9738528130_ee487daca0_b-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9738528130_ee487daca0_b-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8724861154_5b946b9447_b-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8724861154_5b946b9447_b-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/11980066934_0df2439628_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\11980066934_0df2439628_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/bootstrap/js/bootstrap.min.js
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\bootstrap\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/dropdown-menu/dropdown-menu.js
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\dropdown-menu\dropdown-menu.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/swipebox/js/jquery.swipebox.min.js
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\swipebox\js\jquery.swipebox.min.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/jquery.fitvids.js
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\jquery.fitvids.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/audioplayer/audioplayer.min.js
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\audioplayer\audioplayer.min.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/jquery.easy-pie-chart.js
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\jquery.easy-pie-chart.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/theme.js
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\theme.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: text/plain
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: text/plain
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: text/plain
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/font-awesome/fonts/fontawesome-webfont.eot?v=4.1.0
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: video/unknown
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/font-awesome/fonts/fontawesome-webfont.woff?v=4.1.0
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: text/plain
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/font-awesome/fonts/fontawesome-webfont.ttf?v=4.1.0
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: text/plain
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/font-awesome/fonts/fontawesome-webfont.svg?v=4.1.0
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/dropdown-menu/arrows-000000.png
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\dropdown-menu\arrows-000000.png
+Content Type: image/png
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/swipebox/img/loader.gif
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\swipebox\img\loader.gif
+Content Type: image/gif
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/js/swipebox/img/icons.png
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\js\swipebox\img\icons.png
+Content Type: image/png
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/public/img/zigzag.png
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\public\img\zigzag.png
+Content Type: image/png
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/public/img/alter-menu.png
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\public\img\alter-menu.png
+Content Type: image/png
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/public/img/footer-bg.png
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\public\img\footer-bg.png
+Content Type: image/png
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/footer-bg.png
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\footer-bg.png
+Content Type: image/png
+
+Uri: http://school.wpshow.me/home/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\home\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/about-us/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\about-us\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/about-us/2/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\about-us\2\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/about-us/3/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\about-us\3\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9735272889_e6fe99fd24_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9735272889_e6fe99fd24_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-includes/js/comment-reply.min.js?ver=4.2
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: http://school.wpshow.me/team-members/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\team-members\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/team_1.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\team_1.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/team_2.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\team_2.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/team_3.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\team_3.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/team_4.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\team_4.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/contact-us/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\contact-us\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/students-have-enough-time-to-enjoy-the-summer-holidays/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\students-have-enough-time-to-enjoy-the-summer-holidays\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8424419953_eb03053eab_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8424419953_eb03053eab_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9735272477_9f8b8a81e3_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9735272477_9f8b8a81e3_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9513747248_cac11d894e_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9513747248_cac11d894e_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8425536360_8d60723f65_b-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8425536360_8d60723f65_b-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9510947151_ef1d3fdf52_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9510947151_ef1d3fdf52_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9510966437_e790080d97_b1.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9510966437_e790080d97_b1.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8424479925_781319d972_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8424479925_781319d972_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8424416853_1a1882c786_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8424416853_1a1882c786_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8724861154_5b946b9447_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8724861154_5b946b9447_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/11980455396_c1983fe8bf_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\11980455396_c1983fe8bf_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8748862640_01cd0eb9b8_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8748862640_01cd0eb9b8_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9738528130_ee487daca0_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9738528130_ee487daca0_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/posts-page/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\posts-page\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/megan-boyle-flourishes-at-boston-university/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\megan-boyle-flourishes-at-boston-university\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/cody-rotschild-enjoys-life-in-montreal/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\cody-rotschild-enjoys-life-in-montreal\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/2014/06/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\2014\06\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/2014/05/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\2014\05\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/2014/04/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\2014\04\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8748862640_01cd0eb9b8_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8748862640_01cd0eb9b8_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9738528130_ee487daca0_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9738528130_ee487daca0_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8724861154_5b946b9447_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8724861154_5b946b9447_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8425536360_8d60723f65_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8425536360_8d60723f65_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9738528600_13db0ab996_b1-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9738528600_13db0ab996_b1-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9513729802_7e2f089b80_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9513729802_7e2f089b80_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/full-width-page/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\full-width-page\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8672902307_61427398e9_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8672902307_61427398e9_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/text-formatting/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\text-formatting\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/11980066934_0df2439628_b-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\11980066934_0df2439628_b-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9510947151_ef1d3fdf52_b-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9510947151_ef1d3fdf52_b-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9735272477_9f8b8a81e3_b-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9735272477_9f8b8a81e3_b-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/14093140180_40cc891232_b-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\14093140180_40cc891232_b-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/components/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\components\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8672902307_61427398e9_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8672902307_61427398e9_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/category/news/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\category\news\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/event/school-talents-gathering/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\event\school-talents-gathering\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/event/annual-alumni-games/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\event\annual-alumni-games\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/advanced-quantitative-research-methods/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\advanced-quantitative-research-methods\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/basics-in-applied-quantitative-anlaysis/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\basics-in-applied-quantitative-anlaysis\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/field-experiences-in-american-higher-education/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\field-experiences-in-american-higher-education\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/foundations-of-health-professions-education/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\foundations-of-health-professions-education\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/independent-study-in-education/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\independent-study-in-education\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/optimization-methods-in-management-science/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\optimization-methods-in-management-science\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8724862214_8e0a683196_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8724862214_8e0a683196_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/news/great-post-with-image-gallery-inserted/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\great-post-with-image-gallery-inserted\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/11980066934_0df2439628_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\11980066934_0df2439628_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9735272477_9f8b8a81e3_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9735272477_9f8b8a81e3_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9510947151_ef1d3fdf52_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9510947151_ef1d3fdf52_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8724862214_8e0a683196_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8724862214_8e0a683196_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/megan-boyle-flourishes-at-boston-university/attachment/9738528600_13db0ab996_b-2/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\megan-boyle-flourishes-at-boston-university\attachment\9738528600_13db0ab996_b-2\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/knowledge-exchange-student-meetings-and-games/attachment/8724861154_5b946b9447_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\knowledge-exchange-student-meetings-and-games\attachment\8724861154_5b946b9447_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/galleries/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\galleries\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/meetings/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\meetings\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/school/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\school\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/great-post-with-image-gallery-inserted/?replytocom=7
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\great-post-with-image-gallery-inserted\index-1.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/books/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\books\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/boston/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\boston\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/cody-rotschild/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\cody-rotschild\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/competition/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\competition\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/games/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\games\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/holidays/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\holidays\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/knowledge-exchange/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\knowledge-exchange\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/marc-bloom/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\marc-bloom\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/megan-boyle/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\megan-boyle\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/montreal/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\montreal\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/publications/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\publications\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/students/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\students\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/tag/students-exchange/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\students-exchange\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9510947151_ef1d3fdf52_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9510947151_ef1d3fdf52_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9738528600_13db0ab996_b1.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9738528600_13db0ab996_b1.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9738528600_13db0ab996_b1-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9738528600_13db0ab996_b1-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/news/hard-work-is-what-brings-great-results-here/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\hard-work-is-what-brings-great-results-here\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/hard-work-is-what-brings-great-results-here/?replytocom=8
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\hard-work-is-what-brings-great-results-here\index-1.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/knowledge-exchange-student-meetings-and-games/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\knowledge-exchange-student-meetings-and-games\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/knowledge-exchange-student-meetings-and-games/?replytocom=9
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\knowledge-exchange-student-meetings-and-games\index-1.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/13069143783_c1580628f3_h.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\13069143783_c1580628f3_h.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/13475126023_f1962042f2_h.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\13475126023_f1962042f2_h.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/14093140180_40cc891232_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\14093140180_40cc891232_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/11979685575_18b2bf40e9_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\11979685575_18b2bf40e9_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8724862214_8e0a683196_b-90x90.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8724862214_8e0a683196_b-90x90.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/event/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\event\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9510964141_02b16fda30_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9510964141_02b16fda30_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/themes/sofa_buntington/font-awesome/fonts/fontawesome-webfont.eot
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\themes\sofa_buntington\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: video/unknown
+
+Uri: http://school.wpshow.me/home/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\home\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/students-have-enough-time-to-enjoy-the-summer-holidays/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\students-have-enough-time-to-enjoy-the-summer-holidays\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9510953689_9ff11ce986_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9510953689_9ff11ce986_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9513756226_0b09cc9ffa_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9513756226_0b09cc9ffa_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/9735272889_e6fe99fd24_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\9735272889_e6fe99fd24_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/11311269643_376454781c_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\11311269643_376454781c_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/news/megan-boyle-flourishes-at-boston-university/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\megan-boyle-flourishes-at-boston-university\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/megan-boyle-flourishes-at-boston-university/?replytocom=6
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\megan-boyle-flourishes-at-boston-university\index-1.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/cody-rotschild-enjoys-life-in-montreal/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\cody-rotschild-enjoys-life-in-montreal\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/buntington-alum-marc-bloom-pens-new-book/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\buntington-alum-marc-bloom-pens-new-book\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/posts-page/page/2/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\posts-page\page\2\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/2014/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\2014\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/2014/06/07/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\2014\06\07\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/2014/06/08/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\2014\06\08\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/2014/05/28/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\2014\05\28\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/2014/04/23/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\2014\04\23\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/category/news/page/2/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\category\news\page\2\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/spirituality-religion-and-healing-in-counseling/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\spirituality-religion-and-healing-in-counseling\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/professional-writing-and-communications/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\professional-writing-and-communications\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/courses/courses/page/2/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\courses\courses\page\2\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8424480779_38853b5d2f_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8424480779_38853b5d2f_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8425540226_857c3e66c8_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8425540226_857c3e66c8_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8425544104_289d773a5e_b.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8425544104_289d773a5e_b.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/11980066934_0df2439628_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\11980066934_0df2439628_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/11980455396_c1983fe8bf_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\11980455396_c1983fe8bf_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/11979685575_18b2bf40e9_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\11979685575_18b2bf40e9_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9735272477_9f8b8a81e3_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9735272477_9f8b8a81e3_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9735272889_e6fe99fd24_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9735272889_e6fe99fd24_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9513756226_0b09cc9ffa_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9513756226_0b09cc9ffa_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9510947151_ef1d3fdf52_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9510947151_ef1d3fdf52_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9510953689_9ff11ce986_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9510953689_9ff11ce986_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8724862214_8e0a683196_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8724862214_8e0a683196_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8424419953_eb03053eab_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8424419953_eb03053eab_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8672902307_61427398e9_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8672902307_61427398e9_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/megan-boyle-flourishes-at-boston-university/attachment/9738528600_13db0ab996_b-2/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\megan-boyle-flourishes-at-boston-university\attachment\9738528600_13db0ab996_b-2\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/knowledge-exchange-student-meetings-and-games/attachment/8724861154_5b946b9447_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\knowledge-exchange-student-meetings-and-games\attachment\8724861154_5b946b9447_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/galleries/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\galleries\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/meetings/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\meetings\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/school/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\school\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/books/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\books\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/boston/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\boston\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/cody-rotschild/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\cody-rotschild\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/competition/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\competition\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/games/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\games\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/holidays/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\holidays\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/knowledge-exchange/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\knowledge-exchange\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/marc-bloom/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\marc-bloom\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/megan-boyle/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\megan-boyle\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/montreal/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\montreal\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/publications/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\publications\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/students/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\students\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/tag/students-exchange/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\tag\students-exchange\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/event/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\event\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/buntington-alum-marc-bloom-pens-new-book/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\buntington-alum-marc-bloom-pens-new-book\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/news/buntington-alum-marc-bloom-pens-new-book/?replytocom=2
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\buntington-alum-marc-bloom-pens-new-book\index-1.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/buntington-alum-marc-bloom-pens-new-book/?replytocom=3
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\buntington-alum-marc-bloom-pens-new-book\index-2.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/buntington-alum-marc-bloom-pens-new-book/?replytocom=4
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\buntington-alum-marc-bloom-pens-new-book\index-3.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/news/buntington-alum-marc-bloom-pens-new-book/?replytocom=5
+File Name: C:\My Web Sites\saudf\school.wpshow.me\news\buntington-alum-marc-bloom-pens-new-book\index-4.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/wp-content/uploads/2014/06/8424416853_1a1882c786_b-1080x450.jpg
+File Name: C:\My Web Sites\saudf\school.wpshow.me\wp-content\uploads\2014\06\8424416853_1a1882c786_b-1080x450.jpg
+Content Type: image/jpeg
+
+Uri: http://school.wpshow.me/course/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/11980455396_c1983fe8bf_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\11980455396_c1983fe8bf_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/13069143783_c1580628f3_h/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\13069143783_c1580628f3_h\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/11979685575_18b2bf40e9_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\11979685575_18b2bf40e9_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9735272889_e6fe99fd24_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9735272889_e6fe99fd24_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/11311269643_376454781c_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\11311269643_376454781c_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9513756226_0b09cc9ffa_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9513756226_0b09cc9ffa_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9513747248_cac11d894e_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9513747248_cac11d894e_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9510953689_9ff11ce986_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9510953689_9ff11ce986_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9510964141_02b16fda30_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9510964141_02b16fda30_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8424419953_eb03053eab_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8424419953_eb03053eab_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8424479925_781319d972_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8424479925_781319d972_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8672902307_61427398e9_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8672902307_61427398e9_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8425544104_289d773a5e_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8425544104_289d773a5e_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/2014/page/2/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\2014\page\2\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/course/page/2/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\course\page\2\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/13069143783_c1580628f3_h/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\13069143783_c1580628f3_h\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/13475126023_f1962042f2_h/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\13475126023_f1962042f2_h\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/11311269643_376454781c_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\11311269643_376454781c_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9513747248_cac11d894e_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9513747248_cac11d894e_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9510966437_e790080d97_b-2/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9510966437_e790080d97_b-2\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9510964141_02b16fda30_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9510964141_02b16fda30_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8424479925_781319d972_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8424479925_781319d972_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8424480779_38853b5d2f_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8424480779_38853b5d2f_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8425544104_289d773a5e_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8425544104_289d773a5e_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8425540226_857c3e66c8_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8425540226_857c3e66c8_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/13475126023_f1962042f2_h/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\13475126023_f1962042f2_h\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/14093140180_40cc891232_b/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\14093140180_40cc891232_b\index.htm
+Content Type: text/html
+
+Uri: http://school.wpshow.me/gallery/students-moving-around/attachment/9510966437_e790080d97_b-2/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\students-moving-around\attachment\9510966437_e790080d97_b-2\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8424480779_38853b5d2f_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8424480779_38853b5d2f_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/a-little-bit-of-everything/attachment/8425540226_857c3e66c8_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\a-little-bit-of-everything\attachment\8425540226_857c3e66c8_b\feed\index.htm
+Content Type: text/xml
+
+Uri: http://school.wpshow.me/gallery/mix-and-match-school-gallery/attachment/14093140180_40cc891232_b/feed/
+File Name: C:\My Web Sites\saudf\school.wpshow.me\gallery\mix-and-match-school-gallery\attachment\14093140180_40cc891232_b\feed\index.htm
+Content Type: text/xml
+
